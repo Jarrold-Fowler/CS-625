@@ -1,1 +1,36 @@
+---
+title: "HW 2, CS 625, Fall 2022"
+author: "Jarrold Fowler"
+date: Sep 18, 2022
+output: rmarkdown::github_document
+---
+### Part 2. Analyze Cleaned Data
 
+Use the cleaned data to answer the following questions in your report (and explain how you arrived at the answers):
+1. How many types (kinds) of pets are there?
+
+2. How many dogs? 
+
+3. How many breeds of dogs?
+
+4. What's the most popular dog breed?
+
+5. What's the age range of the dogs?
+
+6. What's the age range of the guinea pigs?
+
+7. What is the oldest pet?
+
+8. Which are more popular, betta fish or goldfish? How many of each?
+
+9. What's the most popular everyday name for a cat?
+
+10. What's the most popular full name for a dog?
+
+## References
+
+*Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.*
+
+* Insert Reference 1, 
+* Insert Reference 2, 
+* Insert Reference 3, 
